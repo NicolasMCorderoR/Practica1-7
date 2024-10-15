@@ -5,6 +5,6 @@ JavaScript
 
 # Agregado de estilos generales
 
-# Agregado de la logica jscript
+# Agregado de la logica js
 
 # Terminado
